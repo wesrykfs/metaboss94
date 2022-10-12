@@ -1,0 +1,21 @@
+{
+  "name": "Rotten Eggs #665",
+  "symbol": "EGG",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https%3A%2F%2Fbafybeih4snvmn3t3dcwj5ciuvbhqnrevcwudzar6er24woqp5prm3wqdha.ipfs.nftstorage.link%2F0.png%3Fext%3Dpng",
+  "attributes": [
+ {
+      "trait_type": "Pre-Reveal",
+      "value": "Loading..."
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
